@@ -141,7 +141,15 @@ const translations = {
     "tag-photography": "Fotografia",
     "rating-overall": "Avaliação Geral",
     "reviewer-scriptwriter-li":"Loja de vinhos Xinyue",
+    "review-script-1":"O Gemini 2.5 Pro em programação multilíngue teve um desempenho muito bom. Usei-o para gerar código em Python, JavaScript e Rust, cuja qualidade era muito alta. Fiquei particularmente impressionado com o fato de ele ter dado recomendações valiosas sobre otimização de algoritmos, que me ajudaram a melhorar o desempenho de O(n²) para O(n log n).",
+    "tag-scriptwriting":"Roteiros para cinema e séries",
+    "tag-plot-generation":"Geração de Enredo",
+    "tag-dialogue-writing":"Escrita de Diálogos",
     "reviewer-videographer-sun":"XinXinZi",
+    "review-script-2":"Eu uso o Gemini 2.5 Pro para criar roteiros de vídeos curtos e ele sempre me dá algumas ideias criativas inesperadas. Especialmente para o design de reversão e carga, suas sugestões são muito atraentes.",
+    "tag-video-editing":"Edição de Vídeos",
+    "tag-reversal-design":"Design de Reversão",
+    "tag-load-design":"Design de Carga",
 
     //个人信息保护规则
     "privacyPolicyPageTitle": "Política de Proteção de Dados Pessoais",
